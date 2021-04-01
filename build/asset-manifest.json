@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kiit-Article/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/kiit-Article/static/js/main.d80374fc.chunk.js",
+    "main.js.map": "/kiit-Article/static/js/main.d80374fc.chunk.js.map",
+    "runtime-main.js": "/kiit-Article/static/js/runtime-main.ae3c7388.js",
+    "runtime-main.js.map": "/kiit-Article/static/js/runtime-main.ae3c7388.js.map",
+    "static/js/2.1e2f79fb.chunk.js": "/kiit-Article/static/js/2.1e2f79fb.chunk.js",
+    "static/js/2.1e2f79fb.chunk.js.map": "/kiit-Article/static/js/2.1e2f79fb.chunk.js.map",
+    "static/js/3.383b99f9.chunk.js": "/kiit-Article/static/js/3.383b99f9.chunk.js",
+    "static/js/3.383b99f9.chunk.js.map": "/kiit-Article/static/js/3.383b99f9.chunk.js.map",
+    "index.html": "/kiit-Article/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/kiit-Article/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.1e2f79fb.chunk.js.LICENSE.txt": "/kiit-Article/static/js/2.1e2f79fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae3c7388.js",
+    "static/js/2.1e2f79fb.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.d80374fc.chunk.js"
+  ]
+}
